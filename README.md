@@ -10,6 +10,7 @@ A collection of custom Claude skills for productivity, marketing, and content ma
 | `spans-consulting-proposal` | Consultancy proposals for WTP/STP/ETP/ZLD |
 | `spans-etp-proposal` | EPC proposal for an ETP/STP: block scheme, sizing sheet, BoQ, deck |
 | `spans-intro-meeting-prep` | Prep for an intro meeting on a new enquiry |
+| `spans-proposal-review` | Review a proposal as the client's procurement team would: prioritised findings table |
 | `spans-trading-quote` | Supply-only equipment quotes with costing sheet and offer |
 | `tsrs-file-renaming` | Rename exam paper PDFs to readable names |
 | `vendor-bd-sync` | Sync new vendors from Gmail into a Notion tracker |
