@@ -7,6 +7,7 @@ A collection of custom Claude skills for productivity, marketing, and content ma
 |-------|---------|
 | `business-card-to-csv` | Extract contact details from business card photos into a CSV |
 | `short-ad-video-maker` | Generate short promo/ad videos (.mp4) with voiceover and script |
+| `spans-case-study` | Draft website case studies from project reports/decks, with fact sheet and QA checks |
 | `spans-consulting-proposal` | Consultancy proposals for WTP/STP/ETP/ZLD |
 | `spans-etp-proposal` | EPC proposal for an ETP/STP: block scheme, sizing sheet, BoQ, deck |
 | `spans-intro-meeting-prep` | Prep for an intro meeting on a new enquiry |
